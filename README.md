@@ -1,4 +1,4 @@
-# Site Mulheres que revolucionaram a Programação
+# Site Mulheres que Revolucionaram a Programação
 projeto realizado no curso programaria - Front End básico
 
 ## Curso abordou:
